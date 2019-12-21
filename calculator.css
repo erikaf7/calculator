@@ -11,6 +11,8 @@ body {
     width: 400px;
     background-color: black;
     color: white;
+    margin: auto;
+    padding: 10px;
 }
 
 .screen {
